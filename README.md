@@ -1,17 +1,61 @@
-# deva_farm
+# 🌱 Deva Farm – Agriculture Waste Management App
 
-A new Flutter project.
+Deva Farm is a mobile application built using Flutter to help farmers manage agricultural waste in a simple and organized way.  
+The idea behind this project is to provide a small digital solution where farmers can monitor waste generated on the farm, analyze different waste categories, and request pickup services when needed.
 
-## Getting Started
+This project was created as a learning and practical implementation of Flutter mobile app development.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Waste Management Dashboard to view different types of farm waste.
+- Waste Analytics Graph to visualize waste categories such as organic, crop residue, plastic, and others.
+- Pickup Request System that allows farmers to request waste collection.
+- Dark Mode UI for a better and modern user experience.
+- Farmer Profile section with basic farm owner information.
+- APK release available so users can download and test the application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Android Studio
+- Git
+- GitHub
+
+---
+
+## 📸 Screenshots
+
+Login Screen and Dashboard UI of the Deva Farm application will be added here.
+
+---
+
+## 📦 APK Download
+
+You can download the Android APK from the GitHub release section:
+
+https://github.com/harshalg369/deva_farm/releases
+
+---
+
+## 🔗 Project Repository
+
+GitHub Repository:
+
+https://github.com/harshalg369/deva_farm
+
+---
+
+## 🚀 Running the Project Locally
+
+If you want to run this project on your system:
+
+```bash
+git clone https://github.com/harshalg369/deva_farm.git
+cd deva_farm
+flutter pub get
+flutter run
